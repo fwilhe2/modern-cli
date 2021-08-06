@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-import yaml
 import json
 import urllib.request
-import urllib.parse
 import shutil
 import subprocess
 
